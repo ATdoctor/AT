@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="xFfsTyWotrYMLV9bJrBI">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-57" value="老年对照组&#xa;(Sham手术)" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="390" y="249" width="78" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-58" value="年轻对照组&#xa;(Sham手术)" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="78" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-59" value="老年缺血组&#xa;(ttMCAO)" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="78" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-60" value="年轻缺血组&#xa;(ttMCAO)" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="78" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-64" value="神经功能评估&#xa;改良神经严重程度评分(mNSS)" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="870" y="147" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-65" value="脑梗死体积测定&#xa;TTC染色" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="870" y="30" width="172" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-66" value="血脑屏障完整性检测&#xa;Evans Blue渗透实验" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="870" y="392" width="204" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-67" value="O-GlcNAc糖基化水平&#xa;Western blot(梗死侧脑组织)" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="870" y="281" width="259" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-68" value="血管内皮功能检测&#xa;WB:eNOS/ZO-1/Claudin-3" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="870" y="500" width="245" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-69" value="内皮细胞O-GlcNAc定位&#xa;免疫荧光（CD31+VE-cadherin）" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="870" y="620" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-70" value="炎症因子检测&#xa;ELISA:TNF-α/IL-6" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1877" y="760" width="78" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-110" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZdD5bpX7GYeLZ1ydD8iu-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="317.97" as="sourcePoint" />
+            <mxPoint x="861.5479999999998" y="119.99599999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-111" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZdD5bpX7GYeLZ1ydD8iu-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="318.43" as="sourcePoint" />
+            <mxPoint x="869.56" y="249.99600000000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="240" />
+              <mxPoint x="658" y="338.43" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-112" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZdD5bpX7GYeLZ1ydD8iu-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="319" as="sourcePoint" />
+            <mxPoint x="870" y="359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZdD5bpX7GYeLZ1ydD8iu-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="319" as="sourcePoint" />
+            <mxPoint x="868" y="431" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="598" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-114" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZdD5bpX7GYeLZ1ydD8iu-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="319" as="sourcePoint" />
+            <mxPoint x="860" y="578" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-120" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1.003;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZdD5bpX7GYeLZ1ydD8iu-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="320" as="sourcePoint" />
+            <mxPoint x="608" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="598" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
