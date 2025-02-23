@@ -37,60 +37,14 @@
         <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-70" value="ELISA 检测促炎细胞因子 TNF-α、IL-6" style="whiteSpace=wrap;strokeWidth=2;direction=west;" parent="1" vertex="1">
           <mxGeometry x="120" y="810" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-151" value="细胞实验" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2066" y="1004" width="124" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-162" value="ELISA检测TNF-α/IL-6" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1844" y="1284" width="209" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-163" value="HBMECs +OGD/R组" style="whiteSpace=wrap;strokeWidth=2;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1000" y="640" width="80" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-164" value="HBMECs 组" style="whiteSpace=wrap;strokeWidth=2;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1000" y="330" width="78" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-165" value="处理方法：缺氧缺糖6h后复氧" style="whiteSpace=wrap;strokeWidth=2;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="2485" y="1029" width="78" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-166" value="检测指标" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2888" y="1132" width="124" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-168" value="CCK-8 方法检测复氧24h内皮细胞活性" style="whiteSpace=wrap;strokeWidth=2;direction=west;" parent="1" vertex="1">
           <mxGeometry x="120" y="910" width="220" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-169" value="ELISA检测TNF-α/IL-6" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2723" y="1284" width="209" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-170" value="CCK-8测细胞活性" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2981" y="1284" width="183" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" parent="1" source="ZdD5bpX7GYeLZ1ydD8iu-151" target="ZdD5bpX7GYeLZ1ydD8iu-165" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2524" y="1083" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" parent="1" source="ZdD5bpX7GYeLZ1ydD8iu-151" target="ZdD5bpX7GYeLZ1ydD8iu-166" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2950" y="1083" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-190" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="ZdD5bpX7GYeLZ1ydD8iu-166" target="ZdD5bpX7GYeLZ1ydD8iu-169" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2827" y="1235" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-191" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="ZdD5bpX7GYeLZ1ydD8iu-166" target="ZdD5bpX7GYeLZ1ydD8iu-170" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3073" y="1235" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZdD5bpX7GYeLZ1ydD8iu-196" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZdD5bpX7GYeLZ1ydD8iu-164" target="ZdD5bpX7GYeLZ1ydD8iu-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
